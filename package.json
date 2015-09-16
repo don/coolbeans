@@ -18,6 +18,8 @@
     "webpack": "^1.12.0"
   },
   "dependencies": {
-    "noble": "^1.1.0"
+    "ble-bean": "git+https://github.com/don/ble-bean.git",
+    "noble": "git+https://github.com/monteslu/noble.git",
+    "ws": "^0.8.0"
   }
 }
